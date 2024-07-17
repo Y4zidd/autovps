@@ -1,15 +1,8 @@
-## 1 Click Xray
+## scvps
 Ubuntu or Debian
 
 Setelah pasang ketik `menu` untuk menampilkan menu
 
-Skrip ini aman untuk di install ulang tanpa harus rebuild VPS
-
-Support VPS IPv6 Only, tetapi !!! saat SETUP DOMAIN wajib pilih no.2 / pilih domain sendiri (tidak mendukung opsi no.1)
-
-Jika Script ini membantu jangan lupa sawerannya 😁😁
-
-Saweria: https://saweria.co/dugonglewat
 | Protocol & Transport | Network Port |
 |----------|--------|
 | Vmess Websocket | 443 & 80 |
@@ -32,8 +25,8 @@ Saweria: https://saweria.co/dugonglewat
 
 **Link Instalasi**
 ```
-bash -c "$(wget -qO- https://raw.githubusercontent.com/dugong-lewat/1clickxray/main/install.sh)"
+bash -c "$(wget -qO- https://raw.githubusercontent.com/Y4zidd/autovps/main/install.sh)"
 ```
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/dugong-lewat/1clickxray/main/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/Y4zidd/autovps/main/install.sh)"
 ```
