@@ -34,8 +34,8 @@ print_error() {
 }
 
 # Set your Cloudflare API credentials
-API_EMAIL="1562apricot@awgarstone.com"
-API_KEY="e9c80c4d538c819701ea0129a2fd75ea599ba"
+API_EMAIL="dahlahg7@gmail.com"
+API_KEY="e2ef6cd7b6c38a95c1a4df03b5c63554225c8"
 
 # Set the DNS record details
 TYPE_A="A"
